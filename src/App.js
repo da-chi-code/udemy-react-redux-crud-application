@@ -2,9 +2,8 @@ import React from 'react';
 
 function App() {
   return (
-    <div>
-      <p>hello world!</p>
-    </div>)
+    <h1>
+      hello world!
+    </h1>)
 }
-
 export default App;
